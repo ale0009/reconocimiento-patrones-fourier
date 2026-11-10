@@ -88,7 +88,7 @@ uv run python -m fourier_patrones evaluar
 
 ## Origin
 
-Individual, open-source reimplementation based on an academic team project at Universidad ECCI.
+Individual, open-source reimplementation based on an academic team project at Universidad ECCI, carried out with my teammate **David Alexander Rincón Corredor (Kuronoma)** and team.
 
 ## License
 
