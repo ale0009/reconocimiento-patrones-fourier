@@ -43,4 +43,4 @@ Las formas se renderizan con una fuente disponible en el sistema; por ello, deta
 
 ## Origen
 
-Basado en un trabajo académico en equipo de la Universidad ECCI, hecho con mi compañero **David Alexander Rincón Corredor (Kuronoma)** y equipo; esta es una reimplementación individual y abierta.
+Basado en un trabajo académico en equipo de la Universidad ECCI, hecho con mi compañero [**David Alexander Rincón Corredor (Kuronoma)**](https://www.linkedin.com/in/davidalexanderrinconcorredorkuronoma/) y equipo; esta es una reimplementación individual y abierta.
